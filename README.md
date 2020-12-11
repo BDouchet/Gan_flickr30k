@@ -1,1 +1,1 @@
-# StackGan_flickr30k
+# Gan_flickr30k
